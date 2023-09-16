@@ -10,7 +10,7 @@ export default function CardBody() {
       <div className="btn-div">
         <a className="email-btn-link" href="mailto:am.mcdonald00@gmail.com">
           <button className="email-btn">
-            <img className="btn-logo-email" src="..\src\assets\mail.svg" />
+            <img className="btn-logo-email" src="./mail.svg" />
             Email
           </button>
         </a>
@@ -23,7 +23,7 @@ export default function CardBody() {
           <button className="linkedin-btn">
             <img
               className="btn-logo-linkedin"
-              src="..\src\assets\linkedin box.svg"
+              src="./linkedin box.svg"
             />
             LinkedIn
           </button>
