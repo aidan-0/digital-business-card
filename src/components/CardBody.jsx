@@ -41,8 +41,8 @@ export default function CardBody() {
 
         <h2 className="interests-header">Interests</h2>
         <p className="interests-text">
-          When I'm not coding, I enjoy swimming at the beach, cooking with my
-          partner, and dabbling in electronic music production.
+          When not coding, I enjoy exercising, swimming at the beach, cooking with my
+          partner, and electronic music production.
         </p>
       </div>
     </div>
